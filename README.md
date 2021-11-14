@@ -14,7 +14,7 @@
 * CSS
 * Async JavaScript
 * openweathermap API
-* NodeJs with Express, cors, body-parser dependencies
+* NodeJs with Express, cors and body-parser dependencies
 	
 ## Using
-- just input any zipcode of US, your feeling, click on generate button and enjoy the weather!.
+- Input any zipcode of US, Enter your feeling, click on generate button and enjoy the weather!.
